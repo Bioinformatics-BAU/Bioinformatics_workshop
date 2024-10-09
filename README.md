@@ -2,12 +2,15 @@
 ## A Workshop on Basics of Bioinformatics for Faculties and Researchers
 ### [Schedule Winter 2024]
 
-Workshop registration link: https://forms.gle/pY2KYjGTcM8wsJ8A6
 ---
 
 This repository contains all course material, including lectures, sample code, and exercises.
+
 The files are organised per day and will be updated accordingly.
+
 Workshop description: [Brochure]
+
+Workshop registration link: https://forms.gle/pY2KYjGTcM8wsJ8A6
 
 ### Schedule Overview
 _Day 1_
