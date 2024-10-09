@@ -8,7 +8,7 @@ This repository contains all course material, including lectures, sample code, a
 
 The files are organised per day and will be updated accordingly.
 
-Workshop description: [Brochure], Workshop registration link: https://forms.gle/pY2KYjGTcM8wsJ8A6
+Workshop description: [Brochure]  Registration link: https://forms.gle/pY2KYjGTcM8wsJ8A6
 
 ### Schedule Overview
 _Day 1_
