@@ -1,0 +1,12 @@
+Module 3: Sequence Analysis: Animesh
+
+1.	Basics of Sequence Alignment and Homology Search
+2.	Dot matrix, Dynamic, BLAST, FASTA
+3.	Practical Exercises on Pairwise and Multiple Sequence Alignments: file format
+
+Software: Local NCBI BLAST, CLUSTALW, MUSCLE, MAFFT
+
+•	Brief Overview (Scoring methods, E-value…)
+•	Hands on demonstration: Input data, screenshot of respective procedure
+•	References: Online, Offline tool references
+•	Suggested reading materials
